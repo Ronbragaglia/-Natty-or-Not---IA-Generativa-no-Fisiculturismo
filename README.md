@@ -41,4 +41,3 @@ Python e Google Colab → Ambiente de desenvolvimento
 
 
 
-![image](https://github.com/user-attachments/assets/d5a5eeb7-c76a-42d2-ba40-4f8b3b2e0552)
