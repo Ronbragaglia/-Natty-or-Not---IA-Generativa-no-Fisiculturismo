@@ -2,33 +2,43 @@
 
 📒 Descrição
 
-Este projeto faz parte do Lab Natty or Not da DIO e explora o uso de IAs Generativas para criar conteúdos realistas sobre o mundo do fisiculturismo. Com IA, conseguimos gerar textos, imagens e áudios sobre os desafios de se manter "Natty" ou não!
+Este projeto foi desenvolvido como parte do Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes, explorando o uso de IAs Generativas para criar conteúdos realistas e interativos sobre o mundo do fisiculturismo. Utilizando modelos avançados de IA, conseguimos gerar textos automatizados, converter para áudio e exibir imagens inspiradoras relacionadas ao tema "Natty or Not".
 
 🤖 Tecnologias Utilizadas
 
-EleutherAI GPT-Neo 1.3B (Modelo Open-Source - Hugging Face) - Geração de textos mais coerentes
+EleutherAI GPT-Neo 1.3B → Modelo de IA Generativa para criação de textos
 
-DALL·E 3 - Geração de imagens
+gTTS (Google Text-to-Speech) → Conversão de texto para áudio
 
-gTTS (Google Text-to-Speech) - Conversão de texto em áudio
+Pillow (PIL) → Processamento e exibição de imagens
 
-Python e Google Colab - Ambiente de desenvolvimento
+Python e Google Colab → Ambiente de desenvolvimento
 
-🚀 Resultados
+🏋️‍♂️ Como Funciona?
+
+1️⃣ Executa o código no Google Colab.
+2️⃣ A IA gera um texto realista sobre os desafios do fisiculturismo natural.
+3️⃣ O texto é convertido em áudio, tornando o conteúdo mais acessível.
+4️⃣ Uma imagem inspiradora do Pexels é exibida para complementar a experiência.
+
+📌 Resultados
 
 ✅ Geração de textos realistas sobre fisiculturismo.
 ✅ Criação de áudio dinâmico a partir do texto.
 ✅ Exibição de uma imagem representativa do tema.
 ✅ Código disponível e pronto para ser executado no Google Colab.
 
-💭 Reflexão
+![image](https://github.com/user-attachments/assets/d5a5eeb7-c76a-42d2-ba40-4f8b3b2e0552)
 
-A IA pode criar conteúdos extremamente realistas, mas até que ponto conseguimos distinguir o que é real ou artificial? Esse projeto mostrou que as IAs Generativas estão cada vez mais poderosas, podendo ser aplicadas em diversas áreas, desde esportes até marketing digital.
+💡 Aprendizados e Reflexão
 
-✅ Melhorias Implementadas
-✔ Troca do GPT-2 pelo GPT-Neo 1.3B, que tem melhor suporte ao português
-✔ Aprimoramento da geração de texto (evita repetições e frases sem sentido)
-✔ Correção da exibição de imagem com uma URL válida
-✔ Código estruturado e pronto para ser executado no Google Colab
+✔ A importância de criar prompts inteligentes para guiar a IA na geração de textos coerentes.
+✔ Como converter automaticamente textos em áudio, facilitando o consumo do conteúdo.
+✔ Integração de múltiplas tecnologias, combinando IA, processamento de imagens e áudio.
+✔ Aplicação prática de IAs Generativas no desenvolvimento de conteúdos interativos.
 
 
+
+
+
+![image](https://github.com/user-attachments/assets/d5a5eeb7-c76a-42d2-ba40-4f8b3b2e0552)
