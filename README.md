@@ -28,7 +28,11 @@ Python e Google Colab → Ambiente de desenvolvimento
 ✅ Exibição de uma imagem representativa do tema.
 ✅ Código disponível e pronto para ser executado no Google Colab.
 
-![image](https://github.com/user-attachments/assets/d5a5eeb7-c76a-42d2-ba40-4f8b3b2e0552)
+![image](https://github.com/user-attachments/assets/0ffeab8e-7524-4bb3-b4a7-a0cc0dc86276)
+
+Imagens geradas pelo código no colab: 
+![image](https://github.com/user-attachments/assets/eb732726-8a1f-46b4-8c63-ffd98e15d3b2)
+
 
 💡 Aprendizados e Reflexão
 
